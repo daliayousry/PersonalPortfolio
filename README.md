@@ -11,8 +11,6 @@ My Portfolio made using: Bootstrap, CSS, JS and LinerFonts
 
 <h3>More Links </h3>
 
-Github : https://github.com/daliayousry
-
 Portfolio : https://daliayousry.github.io/PersonalPortfolio/
 
 Linked In : www.linkedin.com/in/dalia-ihab-322378149
