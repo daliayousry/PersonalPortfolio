@@ -7,7 +7,7 @@ through new challenges.
 
 <b>Current Focus:</b> Vue3 , Know more about UX concepts and snowpack
 
-My Portfolio made using: Bootstrap, CSS, JS and LinerFontd
+My Portfolio made using: Bootstrap, CSS, JS and LinerFonts
 
 <h3>More Links </h3>
 
