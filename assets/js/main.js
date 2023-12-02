@@ -157,6 +157,12 @@
           enabled:true
         }
       });
+      $('.dstny-engage').magnificPopup({
+        type: 'image',
+        gallery:{
+          enabled:true
+        }
+      });
     //===== Back to top
     
     // Show or hide the sticky footer button
