@@ -894,7 +894,7 @@ bottom: -47px;
     .single-service {
       padding: 15px; } }
   .single-service .service-icon img {
-    width: 83px;
+    /* width: 83px; */
     height: 83px; }
   .single-service .service-content {
     margin-top: 11px; }
